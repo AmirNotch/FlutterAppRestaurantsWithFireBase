@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850469381118",
+    "project_id": "foodcort-82ff3",
+    "storage_bucket": "foodcort-82ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850469381118:android:ee1de74e9bafb72a2216af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850469381118-3gbcpab5ps4e5cko3pt6p9al7biienol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZ-NXlVzrfHozxUiVmES6vzq6JT-nYdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850469381118-3gbcpab5ps4e5cko3pt6p9al7biienol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
